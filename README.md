@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ankush37
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chauhanankush37@gmail.com
 
 <!---
